@@ -1,0 +1,230 @@
+.footer-dark {
+  padding: 50px 0;
+  color: #f0f9ff;
+  background-color: #282d32;
+  /*z-index: -2;*/
+}
+
+.footer-dark h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.footer-dark ul {
+  padding: 0;
+  list-style: none;
+  line-height: 1.6;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+.footer-dark ul a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.footer-dark ul a:hover {
+  opacity: 0.8;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item:not(.social) {
+    text-align: center;
+    padding-bottom: 20px;
+  }
+}
+
+.footer-dark .item.text {
+  margin-bottom: 36px;
+}
+
+@media (max-width:767px) {
+  .footer-dark .item.text {
+    margin-bottom: 0;
+  }
+}
+
+.footer-dark .item.text p {
+  opacity: 0.6;
+  margin-bottom: 0;
+}
+
+.footer-dark .item.social {
+  text-align: center;
+}
+
+@media (max-width:991px) {
+  .footer-dark .item.social {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+.footer-dark .item.social > a {
+  font-size: 20px;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0 0 0 1px rgba(255,255,255,0.4);
+  margin: 0 8px;
+  color: #fff;
+  opacity: 0.75;
+}
+
+.footer-dark .item.social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-dark .copyright {
+  text-align: center;
+  padding-top: 24px;
+  opacity: 0.3;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .wallet_header_marge {
+    margin-top: 180px;
+  }
+}
+
+.container0px.wallet_header_height {
+  height: 656px;
+  min-height: 656px;
+}
+
+.wallet_header_height {
+  height: 656px;
+}
+
+.line2 {
+  height: 1px;
+  width: 80%;
+  display: block;
+  background: #707070;
+}
+
+.positiontop {
+  position: relative;
+  top: 210px;
+}
+
+@media (max-width: 768px) {
+  .nonedisplay_sm {
+    display: none !important;
+    /*width: 0px;*/
+    background: none;
+    visibility: hidden;
+  }
+}
+
+@media (min-width: 769px) {
+  .nonedisplay_above_sm {
+    display: none !important;
+    /*width: 0px;*/
+    background: none;
+    visibility: hidden;
+  }
+}
+
+@media (min-width:300px) and (max-width: 360px) {
+  .width100 {
+    width: 100%;
+    min-width: 200px;
+    max-width: 300px;
+  }
+}
+
+@media (min-width: 577px) and (max-width:768px) {
+  .width100 {
+    width: 100%;
+    min-width: 768px;
+  }
+}
+
+@media (min-width: 361px) and (max-width:576px) {
+  .width100 {
+    width: 100%;
+    min-width: 576px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-treangle_ds:after {
+    content: "";
+    background: url("../img/SignumChain.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 0px;
+    z-index: 0;
+    background-size: 764px;
+    width: 764px;
+    height: 759px;
+    bottom: -499px;
+  }
+}
+
+@media (max-width: 768px) {
+  .height_100 {
+    height: 100% !important;
+    min-height: auto !important;
+    text-align: center !important;
+  }
+}
+
+element.style {
+  padding: 40px;
+  background: #021851;
+  box-shadow: 0px 0px 20px rgba(0,102,255,0.16);
+  border-top-left-radius: 14px;
+  border-bottom-left-radius: 15px;
+  border-color: rgba(112,112,112,0);
+  border-top-color: rgb(112,112,112);
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(112,112,112);
+  border-left-color: rgb(112,112,112);
+}
+
+@media (max-width: 575px) {
+  .style--sm-payment2 {
+    padding-top: 20px;
+    border-bottom-right-radius: 15px;
+    border-bottom-left-radius: 15px !important;
+    border-top-right-radius: 0px !important;
+    border-top-left-radius: 0px !important;
+    border-top-width: 0px !important;
+    border-top-color: rgb(112,112,112);
+    border-right-width: 1px;
+    border-right-color: rgb(112,112,112);
+    border-bottom-width: 1px;
+    border-bottom-color: rgb(112,112,112);
+  }
+}
+
+.line2 {
+  height: 1px;
+  width: 100%;
+  display: block;
+  background: #707070;
+}
+
+@media (max-width: 767px) {
+  .bg-blue-smmd {
+    background-color: #E8F3FF!important;
+  }
+}
+
+.wallitem-container {
+  background-color: rgb(210,18,18)!important;
+}
+
+#video1 {
+}
+

@@ -1,0 +1,1394 @@
+#SliderFrame {
+  width: 100%;
+  height: 743px;
+  background: #0099FF radial-gradient(#0099FF, #0066FF);
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: #333333;
+  background-color: #f8fbfe;
+  overflow-x: hidden;
+}
+
+@media (min-width: 361px) and (max-width: 576px) {
+  h1 {
+    font-size: 61px;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 577px) and (max-width: 992px) {
+  h1 {
+    font-size: 75px;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 1200px) {
+  h1 {
+    font-size: 100px;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 360px) {
+  h1 {
+    font-size: 48px;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 360px) {
+  h3 {
+    font-size: 36px;
+    font-weight: 500;
+  }
+}
+
+@media (min-width: 361px) {
+  h3 {
+    font-size: 40px;
+    font-weight: 500;
+  }
+}
+
+@media (max-width: 360px) {
+  p {
+    font-size: 16px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 361px) and (max-width:768px) {
+  p {
+    font-size: 18px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 769px) and (max-width:992px) {
+  p {
+    font-size: 19px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 769px) {
+  p {
+    font-size: 20px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 577px) {
+  #Welcome {
+    background: url("../img/SignumChain.svg");
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position: center;
+    /*backg: none!important;*/
+  }
+}
+
+.container0px {
+  margin: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+}
+
+@media (max-width: 360px) {
+  h2 {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 361px) and (max-width:768px) {
+  h2 {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 769px) and (max-width:1200px) {
+  h2 {
+    font-size: 36px;
+  }
+}
+
+@media (min-width: 1201px) {
+  h2 {
+    font-size: 50px;
+  }
+}
+
+@media (max-width: 360px) {
+  h4 {
+    font-size: 16px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 361px) and (max-width:992px) {
+  h4 {
+    font-size: 25px;
+    font-weight: 400;
+  }
+}
+
+@media (min-width: 993px) {
+  h4 {
+    font-size: 30px;
+    font-weight: 400;
+  }
+}
+
+@media (max-width: 767px) {
+  .flexcard {
+    flex-direction: row;
+    flex: flex;
+    height: 125px;
+    width: 100%;
+    align-items: center;
+    padding-left: 30px;
+    box-shadow: 0px 20px 40px rgba(0,62,156,0.1);
+    background: #ffffff;
+    border-radius: 15px;
+  }
+}
+
+@media (min-width: 768px) {
+  .flexcard {
+    flex-direction: column;
+    flex: flex;
+    height: 325px;
+    width: 370px;
+    padding-top: 60px;
+    box-shadow: 0px 20px 40px rgba(0,62,156,0.1);
+    background: #ffffff;
+    border-radius: 15px;
+  }
+}
+
+@media (max-width: 767px) {
+  .flexcardPart2 {
+    padding-left: 30px;
+    align-items: start;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@media (min-width: 768px) {
+  .flexcardPart2 {
+    /*padding-left: 30px;*/
+    align-items: center;
+  }
+}
+
+@media (max-width: 767px) {
+  .flexcardImage {
+    /*padding-top: 30px;*/
+    /*padding-bottom: 30px;*/
+    width: 70px;
+    height: 64.02px;
+    font-size: 70px;
+  }
+}
+
+@media (min-width: 768px) {
+  .flexcardImage {
+    /*padding-top: 30px;*/
+    /*padding-bottom: 30px;*/
+    width: 109.89px;
+    height: 100.5px;
+    margin-bottom: 30px;
+    font-size: 109px;
+  }
+}
+
+.btn-outline-light {
+  color: #f8f9fa;
+  border-color: #f8f9fa;
+}
+
+@media (max-width: 767px) {
+  .text-center-smmd {
+    text-align: center!important;
+  }
+}
+
+.col-md-8.col-lg-6.col-xl-6.col-xxl-6.d-flex.flex-column.align-self-center.order-change {
+}
+
+@media (min-width: 768px) {
+  .order-change {
+    order: -1;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-treangle:before {
+    content: "";
+    background: url("../img/Signum_Retancle.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1400px;
+    height: 325px;
+    position: absolute;
+    /*bottom: 0px;*/
+    left: 0px;
+    z-index: -1;
+    /*contain: initial;*/
+  }
+}
+
+@media (min-width: 1400px) {
+  .bg-treangle:after {
+    content: "";
+    background: url("../img/SignumChain.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    right: -400px;
+    z-index: -1;
+    background-size: 764px;
+    width: 764px;
+    height: 759px;
+    /*top: 100px;*/
+    bottom: -1250px;
+  }
+}
+
+@media (min-width: 768px) {
+  .bg-middle {
+    background: url("../img/SignumChain.svg") top / auto no-repeat;
+  }
+}
+
+.link_black {
+  text-decoration: none;
+  color: #333333;
+  font-weight: normal;
+}
+
+.link_black:hover {
+  /*text-decoration: none;*/
+  color: #333333;
+  font-weight: normal;
+}
+
+@media (max-width: 576px) {
+  .text-sm-alingstart {
+    text-align: left!important;
+  }
+}
+
+@media (min-width: 577px) {
+  .containerMargenOffset {
+    margin-top: -185px;
+  }
+}
+
+@media (max-width: 576px) {
+  .containerMargenOffset {
+    margin-top: -100px;
+  }
+}
+
+@media (max-width: 576px) {
+  .mobile-margeTandB {
+    padding-top: 40px;
+    padding-bottom: 80px;
+  }
+}
+
+@media (min-width: 577px) {
+  .mobile-margeTandB {
+    padding-top: 100px;
+    padding-bottom: 250px;
+  }
+}
+
+@media (max-width: 767px) {
+  .align-self-sm-max-center {
+    align-self: center!important;
+  }
+}
+
+.line {
+  height: 1px;
+  width: 50px;
+  display: block;
+  background: #0099FF;
+}
+
+.link_grey {
+  text-decoration: none;
+  color: #888890;
+  font-weight: normal;
+}
+
+.link_grey:hover {
+  text-decoration: none;
+  color: #888890;
+}
+
+@media (min-width: 1401px) {
+  .bg-world:after {
+    content: "";
+    background: url("../img/SignumWorld.svg");
+    background-repeat: no-repeat;
+    z-index: 1;
+    background-size: 600px;
+    width: 700px;
+    height: 700px;
+    right: -190px;
+    position: absolute;
+    bottom: -120px;
+  }
+}
+
+@media (min-width: 1201px) and (max-width: 1400px) {
+  .bg-world:after {
+    content: "";
+    background: url("../img/SignumWorld.svg");
+    background-repeat: no-repeat;
+    z-index: 1;
+    background-size: 600px;
+    width: 700px;
+    height: 700px;
+    right: -416px;
+    position: absolute;
+    bottom: -120px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1200px) {
+  .bg-world:after {
+    content: "";
+    background: url("../img/SignumWorld.svg");
+    background-repeat: no-repeat;
+    z-index: 1;
+    background-size: 640px;
+    width: 640px;
+    height: 640px;
+    right: -330px;
+    position: absolute;
+    bottom: -82px;
+  }
+}
+
+@media (max-width: 360px) {
+  .bg-world:after {
+    content: "";
+    background: url("../img/SignumWorld.png");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 360px;
+    width: 360px;
+    height: 360px;
+    left: -50px;
+    position: absolute;
+    bottom: 231px;
+  }
+}
+
+@media (min-width: 577px) and (max-width:991px) {
+  .bg-world:after {
+    content: "";
+    background: url("../img/SignumWorld.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 456px;
+    width: 456px;
+    height: 456px;
+    left: -50px;
+    position: absolute;
+    bottom: 209px;
+  }
+}
+
+@media (min-width: 361px) and (max-width:576px) {
+  .bg-world:after {
+    content: "";
+    background: url("../img/SignumWorld.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 403px;
+    width: 403px;
+    height: 394px;
+    left: -50px;
+    position: absolute;
+    bottom: 267px;
+  }
+}
+
+@media (min-width: 300px) and (max-width:360px) {
+  .slider-sm-marge {
+    margin-top: 550px;
+    padding-left: 30px;
+  }
+}
+
+@media (min-width: 992px) {
+  .slider-sm-marge {
+    padding-top: 351px;
+    padding-left: 30px;
+  }
+}
+
+@media (min-width: 769px) and (max-width:991px) {
+  .slider-sm-marge {
+    padding-top: 682px;
+    padding-left: 30px;
+  }
+}
+
+@media (min-width: 577px) and (max-width:768px) {
+  .slider-sm-marge {
+    padding-top: 650px;
+    padding-left: 30px;
+  }
+}
+
+@media (min-width: 361px) and (max-width:576px) {
+  .slider-sm-marge {
+    padding-top: 580px;
+    padding-left: 30px;
+  }
+}
+
+@media (min-width: 300px) {
+  .slider-sm-padding {
+    /*margin-top: 550px;*/
+    padding-left: 30px;
+  }
+}
+
+.navbar-dark .navbar-toggler-icon {
+  background-image: url(../img/ToggleWhite.svg);
+}
+
+a {
+  text-decoration: none;
+  /*font-weight: bold;*/
+  color: inherit;
+}
+
+@media (max-width: 360px) {
+  .bg-processor:after {
+    background: url("../img/SignumProcessor.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 1276px;
+    width: 1276px;
+    height: 850px;
+    left: -489px;
+    position: absolute;
+    bottom: -206px;
+    content: "";
+  }
+}
+
+@media (min-width: 577px) and (max-width:991px) {
+  .bg-processor:after {
+    background: url("../img/SignumProcessor.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 1276px;
+    width: 1276px;
+    height: 850px;
+    left: -307px;
+    position: absolute;
+    bottom: -138px;
+    content: "";
+  }
+}
+
+@media (min-width: 992px) and (max-width:1200px) {
+  .bg-processor:after {
+    background: url("../img/SignumProcessor.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 1276px;
+    width: 1276px;
+    height: 850px;
+    left: 300px;
+    position: absolute;
+    bottom: -201px;
+    content: "";
+  }
+}
+
+@media (min-width: 1201px) {
+  .bg-processor:after {
+    background: url("../img/SignumProcessor.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 1500px;
+    width: 1500px;
+    height: 950px;
+    right: -448px;
+    position: absolute;
+    bottom: -337px;
+    content: "";
+  }
+}
+
+@media (min-width: 361px) and (max-width:576px) {
+  .bg-processor:after {
+    background: url("../img/SignumProcessor.svg");
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-size: 1276px;
+    width: 1276px;
+    height: 850px;
+    left: -489px;
+    position: absolute;
+    bottom: -206px;
+    content: "";
+  }
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #0099ff;
+  border-color: #0099ff;
+}
+
+.btn-light:hover {
+  color: #f7eeee;
+  background-color: #0b5ed7;
+  border-color: #0b5ed7;
+}
+
+@media (min-width: 1601px) {
+  .bg-platine:after {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 1431px;
+    width: 1431px;
+    height: 950px;
+    right: -361px;
+    position: absolute;
+    bottom: 49px;
+    content: "";
+    background: url(../img/mining/bg_ele.svg);
+  }
+}
+
+@media (min-width: 1441px) and (max-width:1600px) {
+  .bg-platine:after {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 1431px;
+    width: 1431px;
+    height: 950px;
+    right: -551px;
+    position: absolute;
+    bottom: -42px;
+    content: "";
+    background: url(../img/mining/bg_ele.svg);
+  }
+}
+
+@media (min-width: 993px) and (max-width:1200px) {
+  .bg-platine:after {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 1431px;
+    width: 1431px;
+    height: 950px;
+    right: -738px;
+    position: absolute;
+    bottom: -36px;
+    content: "";
+    background: url(../img/mining/bg_ele.svg);
+  }
+}
+
+@media (min-width: 676px) and (max-width:768px) {
+  .bg-platine:after {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 1431px;
+    width: 1431px;
+    height: 950px;
+    right: -1011px;
+    position: absolute;
+    bottom: 93px;
+    content: "";
+    background: url(../img/mining/bg_ele.svg);
+  }
+}
+
+@media (min-width: 769px) and (max-width:992px) {
+  .bg-platine:after {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 1431px;
+    width: 1431px;
+    height: 950px;
+    right: -841px;
+    position: absolute;
+    bottom: 154px;
+    content: "";
+    background: url(../img/mining/bg_ele.svg);
+  }
+}
+
+@media (min-width: 1201px) and (max-width:1400px) {
+  .bg-platine:after {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 1431px;
+    width: 1431px;
+    height: 950px;
+    right: -666px;
+    position: absolute;
+    bottom: -54px;
+    content: "";
+    background: url(../img/mining/bg_ele.svg);
+  }
+}
+
+@media (min-width: 1400px) {
+  .staking:before {
+    content: "";
+    background: url("../img/SignumChainGrey.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    /*z-index: -1;*/
+    background-size: 586px;
+    width: 586px;
+    height: 582px;
+    left: -285px;
+    z-index: 0;
+    bottom: -2300px;
+    /*top: 0px;*/
+  }
+}
+
+.bg-platine:before {
+  background-repeat: no-repeat;
+  z-index: 0;
+  background-size: 1431px;
+  width: 1431px;
+  height: 950px;
+  left: -900px;
+  position: absolute;
+  top: -399px;
+  content: "";
+  background: url(../img/mining/bg_ele.svg);
+}
+
+@media (min-width: 1200px) {
+  .bg-worldgrid1:after {
+    background-repeat: no-repeat;
+    background-size: 972px;
+    width: 972px;
+    height: 456px;
+    right: -400px;
+    position: absolute;
+    top: 200px;
+    content: "";
+    background: url(../img/wallet/WorldGrid.svg);
+    z-index: 0;
+  }
+}
+
+@media (min-width: 1601px) {
+  .bg-worldgrid:before {
+    background-repeat: no-repeat;
+    z-index: 0;
+    background-size: 972px;
+    width: 972px;
+    height: 952px;
+    left: -600px;
+    position: absolute;
+    top: -443px;
+    content: "";
+    background: url(../img/wallet/WorldGrid.svg);
+  }
+}
+
+@media (min-width:993px) and (max-width: 1199px) {
+  .bg-worldgrid:before {
+    width: 560px;
+    height: 505px;
+    right: -63px;
+    position: absolute;
+    top: 86px;
+    content: "";
+    background: url(../img/wallet/WorldGrid.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width:769px) and (max-width: 992px) {
+  .bg-worldgrid:before {
+    width: 560px;
+    height: 505px;
+    left: 168px;
+    position: absolute;
+    top: -98px;
+    content: "";
+    background: url(../img/wallet/WorldGrid.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width:300px) and (max-width: 768px) {
+  .bg-worldgrid:before {
+    width: 360px;
+    height: 305px;
+    left: 7px;
+    position: absolute;
+    top: 96px;
+    content: "";
+    background: url(../img/wallet/WorldGrid.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 992px) {
+  .order-change1 {
+    order: -1;
+  }
+}
+
+@media (min-width: 361px) {
+  .max-width120 {
+    width: 160px;
+  }
+}
+
+@media (max-width: 360px) {
+  .max-width120 {
+    width: 120px;
+  }
+}
+
+.flexcard_mining {
+  height: 100%;
+  width: 370px;
+  min-height: 600x;
+  padding-top: 60px;
+  box-shadow: 0px 20px 40px rgba(0,62,156,0.1);
+  background: #ffffff;
+  border-radius: 5px;
+  flex-direction: column;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+.bg-ndsa:before {
+  content: "";
+  background: url(../img/wallet/NDSA.svg);
+  background-repeat: no-repeat;
+  background-size: 400px;
+  width: 450px;
+  height: 600px;
+  position: relative;
+  left: -294px;
+  bottom: -670px;
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-discover {
+    background: url(../img/discover/DiscoverLogo.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 540px;
+  }
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-discover {
+    background: url(../img/discover/DiscoverLogo.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 429px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-discover {
+    background: url(../img/discover/DiscoverLogo.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 398px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-discover {
+    background: url(../img/discover/DiscoverLogo.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 480px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-discover {
+    background: url(../img/discover/DiscoverLogo.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 653px;
+  }
+}
+
+.example::-webkit-scrollbar {
+  display: none;
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-pocplus {
+    background: url(../img/Features/pocplus/PoCPlusOpener.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 355px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-pocplus {
+    background: url(../img/Features/pocplus/PoCPlusOpener.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 474px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-pocplus {
+    background: url(../img/Features/pocplus/PoCPlusOpener.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 491px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-pocplus {
+    background: url(../img/Features/pocplus/PoCPlusOpener.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 548px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-pocplus {
+    background: url(../img/Features/pocplus/PoCPlusOpener.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 481px;
+  }
+}
+
+.flexcardpoc {
+  flex-direction: column;
+  /*height: 660px;*/
+  width: 100%;
+  padding-top: 60px;
+  box-shadow: 0px 20px 40px rgba(0,62,156,0.1);
+  background: #ffffff;
+  border-radius: 15px;
+}
+
+@media (max-width: 576px) {
+  .containerMargenOffsetPoC {
+    margin-top: -314px;
+  }
+}
+
+@media (min-width: 577px) {
+  .containerMargenOffsetPoC {
+    margin-top: -335px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .join3:after {
+    content: "";
+    background: url("../img/SignumChainGrey.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 586px;
+    width: 586px;
+    height: 582px;
+    right: -285px;
+    z-index: 0;
+    bottom: -3700px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .join3:before {
+    content: "";
+    background: url("../img/SignumChainGrey.svg");
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 586px;
+    width: 586px;
+    height: 582px;
+    left: -285px;
+    z-index: 0;
+    bottom: -3700px;
+  }
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-payments {
+    background: url(../img/SignumTeaser1.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 273px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-payments {
+    background: url(../img/SignumTeaser1.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 313px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-payments {
+    background: url(../img/SignumTeaser1.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 349px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-payments {
+    background: url(../img/SignumTeaser1.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 475px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-payments {
+    background: url(../img/SignumTeaser1.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 457px;
+  }
+}
+
+@media (max-width: 575px) {
+  .style--sm-payment {
+    padding-top: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-width: 1px;
+    border-top-color: rgb(112,112,112);
+    border-right-width: 1px;
+    border-right-color: rgb(112,112,112);
+    border-bottom-width: 0px !important;
+    border-bottom-color: rgb(112,112,112);
+  }
+}
+
+@media (min-width:576px) {
+  .style--sm-payment {
+    padding-top: 20px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 15px;
+    border-top-width: 1px;
+    border-top-color: rgb(112,112,112);
+    border-right-width: 1px;
+    border-right-color: rgb(112,112,112);
+    border-bottom-width: 0px !important;
+    border-bottom-color: rgb(112,112,112);
+  }
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-smartcontract {
+    background: url(../img/Features/smartcontract/smartcontract.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 299px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-smartcontract {
+    background: url(../img/Features/smartcontract/smartcontract.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 343px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-smartcontract {
+    background: url(../img/Features/smartcontract/smartcontract.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 377px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-smartcontract {
+    background: url(../img/Features/smartcontract/smartcontract.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 507px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-smartcontract {
+    background: url(../img/Features/smartcontract/smartcontract.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 436px;
+  }
+}
+
+h6 {
+  font-weight: 400;
+}
+
+@media (min-width:769px) and (max-width: 992px) {
+  .offsetMargeRow_992 {
+    margin-bottom: -440px !important;
+  }
+}
+
+@media (min-width:577px) and (max-width: 768px) {
+  .offsetMargeRow_992 {
+    margin-bottom: -500px!important;
+  }
+}
+
+@media (min-width:361px) and (max-width: 576px) {
+  .offsetMargeRow_992 {
+    margin-bottom: -550px!important;
+  }
+}
+
+@media (min-width:100px) and (max-width: 360px) {
+  .offsetMargeRow_992 {
+    margin-bottom: -970px!important;
+  }
+}
+
+@media (min-width: 100px) and (max-width:360px) {
+  .offset_padding_1000 {
+    padding-top: 1000px;
+  }
+}
+
+@media (min-width: 361px) and (max-width:576px) {
+  .offset_padding_1000 {
+    padding-top: 600px;
+  }
+}
+
+@media (min-width: 577px) and (max-width:768px) {
+  .offset_padding_1000 {
+    padding-top: 550px;
+  }
+}
+
+@media (min-width: 769px) and (max-width:992px) {
+  .offset_padding_1000 {
+    padding-top: 500px;
+  }
+}
+
+@media (min-width: 993px) and (max-width:1200px) {
+  .offset_padding_1000 {
+    padding-top: 450px;
+  }
+}
+
+@media (min-width: 1201px) {
+  .offset_padding_1000 {
+    padding-top: 450px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .join4:before {
+    content: "";
+    background: url(../img/SignumChainBlue.svg);
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: 586px;
+    width: 586px;
+    height: 582px;
+    left: -285px;
+    z-index: 0;
+    top: 0px;
+  }
+}
+
+.center {
+  text-align: center;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-tokens {
+    background: url(../img/Features/tokens/TokenTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 303px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-tokens {
+    background: url(../img/Features/tokens/TokenTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 396px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-tokens {
+    background: url(../img/Features/tokens/TokenTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 377px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-tokens {
+    background: url(../img/Features/tokens/TokenTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 544px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-tokens {
+    background: url(../img/Features/tokens/TokenTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 436px;
+  }
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-messages {
+    background: url(../img/Features/messaging/MessagesTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 429px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-messages {
+    background: url(../img/Features/messaging/MessagesTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 492px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-messages {
+    background: url(../img/Features/messaging/MessagesTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 539px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-messages {
+    background: url(../img/Features/messaging/MessagesTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 664px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-messages {
+    background: url(../img/Features/messaging/MessagesTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 565px;
+  }
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-alias {
+    background: url(../img/Features/alias/AliasTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 366px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-alias {
+    background: url(../img/Features/alias/AliasTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 528px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-alias {
+    background: url(../img/Features/alias/AliasTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 588px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-alias {
+    background: url(../img/Features/alias/AliasTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 513px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-alias {
+    background: url(../img/Features/alias/AliasTeaser.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 485px;
+  }
+}
+
+@media (max-width: 992px) {
+  .nonedisplay_sml {
+    display: none !important;
+    background: none;
+    visibility: hidden;
+  }
+}
+
+@media (max-width: 992px) {
+  .flex-column_sml {
+    flex-direction: column!important;
+  }
+}
+
+@media (max-width: 360px) {
+  .flex-column_sm {
+    flex-direction: column!important;
+  }
+}
+
+.btn-outline-primary:hover {
+  color: #ffffff!important;
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+.nooutline {
+  outline: none !important;
+}
+
+.btn-check:active + .btn-outline-light, .btn-check:checked + .btn-outline-light, .btn-outline-light.active, .btn-outline-light.dropdown-toggle.show, .btn-outline-light:active {
+  color: #000;
+  background-color: #0066ff;
+  border-color: #f8f9fa;
+}
+
+@media (min-width: 300px) and (max-width:575px) {
+  .bg-exchange {
+    background: url(../img/exchanges/ExchnangeTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 399px;
+  }
+}
+
+@media (min-width: 992px) and (max-width:1199px) {
+  .bg-exchange {
+    background: url(../img/exchanges/ExchnangeTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 540px;
+  }
+}
+
+@media (min-width: 576px) and (max-width:767px) {
+  .bg-exchange {
+    background: url(../img/exchanges/ExchnangeTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 398px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .bg-exchange {
+    background: url(../img/exchanges/ExchnangeTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 637px;
+  }
+}
+
+@media (min-width: 768px) and (max-width:991px) {
+  .bg-exchange {
+    background: url(../img/exchanges/ExchnangeTrailer.svg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: 552px;
+  }
+}
+
+@media (min-width: 993px) {
+  .visible-until-992 {
+    display: none!important;
+  }
+}
+
+@media (max-width: 992px) {
+  .visible-until-992 {
+    display: inline!important;
+  }
+}
+
+@media (max-width: 992px) {
+  .visible-from-992 {
+    display: none!important;
+  }
+}
+
+@media (min-width: 993px) {
+  .visible-from-992 {
+    display: inline!important;
+  }
+}
+
