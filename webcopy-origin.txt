@@ -1,0 +1,732 @@
+Uri: https://btdex.trade/BTDEXandTRT.pdf
+File Name: C:\Downloaded Web Sites\www.signum.network\BTDEXandTRT.pdf
+Content Type: application/pdf
+
+Uri: https://cdn.jsdelivr.net/npm/@burstjs/core/dist/burstjs.min.js
+File Name: C:\Downloaded Web Sites\www.signum.network\npm\@burstjs\core\dist\burstjs.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/@burstjs/util/dist/burstjs.util.min.js
+File Name: C:\Downloaded Web Sites\www.signum.network\npm\@burstjs\util\dist\burstjs.util.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\www.signum.network\ajax\libs\Swiper\6.4.8\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/Swiper/6.4.8/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\www.signum.network\ajax\libs\Swiper\6.4.8\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.6.0.slim.min.js
+File Name: C:\Downloaded Web Sites\www.signum.network\jquery-3.6.0.slim.min.js
+Content Type: application/javascript
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/163338155/5f955441-ee28-4932-a056-a00228b7660e?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044141Z&X-Amz-Expires=300&X-Amz-Signature=c15a8fa4c580540b4561d0360f0150561641db10f88163b17cf761059ce017bb&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=163338155&response-content-disposition=attachment%3B filename%3Dsignum-node-v3.3.3-win_x64.zip&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\163338155\signum-node-v3.3.3-win_x64.zip
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/163338155/dfe6eb56-cf95-4c57-b7dc-b1c1f8afe9b1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044146Z&X-Amz-Expires=300&X-Amz-Signature=865478f963d07c1d25bb2d26a152c89588cc1b04fb034dfb4012d6177322bdbe&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=163338155&response-content-disposition=attachment%3B filename%3Dsignum-node-v3.3.3.zip&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\163338155\signum-node-v3.3.3.zip
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/164716981/15f7cf68-ecb3-4ae2-94d5-eaafc75c8918?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044043Z&X-Amz-Expires=300&X-Amz-Signature=358a5a8f330ddeb446769caaffc12cfa4c62228701fd239b41e887473e212ed1&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=164716981&response-content-disposition=attachment%3B filename%3Dlinux-phoenix-signum-wallet.1.3.2.deb&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\164716981\linux-phoenix-signum-wallet.1.3.2.deb
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/164716981/62968660-772a-43c3-9e11-a3f423eb0b87?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044049Z&X-Amz-Expires=300&X-Amz-Signature=44efc5d0d5956c8bf3635ad96a0c030536b892473597b80d696cfa864b77f76e&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=164716981&response-content-disposition=attachment%3B filename%3Dmac-phoenix-signum-wallet.1.3.2.dmg&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\164716981\mac-phoenix-signum-wallet.1.3.2.dmg
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/164716981/cfb815c9-97e7-47a5-89b4-1b018b1c05bf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044035Z&X-Amz-Expires=300&X-Amz-Signature=da7f3730a6769424fcb3441be71b3f9b644db345e4e1a12da235f53cf6ccacde&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=164716981&response-content-disposition=attachment%3B filename%3Dwin-phoenix-signum-wallet-setup.1.3.2.exe&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\164716981\win-phoenix-signum-wallet-setup.1.3.2.exe
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/186305684/1d6fd680-9916-4185-9b9e-5f7a27755ad9?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044114Z&X-Amz-Expires=300&X-Amz-Signature=25e3593c1fc9c33389c730285118842773efe48953fb6c6034a8925f39186524&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=186305684&response-content-disposition=attachment%3B filename%3Dbtdex_0.5.14-1_amd64.deb&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\186305684\btdex_0.5.14-1_amd64.deb
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/186305684/24b879b6-59f9-4bfd-b36a-fca6eca7f4c1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044127Z&X-Amz-Expires=300&X-Amz-Signature=191d3a6438bc394cfb6383fb4d4d7793ef30d9e13ec67aa806183e9376a94908&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=186305684&response-content-disposition=attachment%3B filename%3Dbtdex-v0.5.14-macosx_x64.zip&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\186305684\btdex-v0.5.14-macosx_x64.zip
+Content Type: application/octet-stream
+
+Uri: https://objects.githubusercontent.com/github-production-release-asset-2e65be/186305684/ea63115e-1a0c-4166-8f01-09e9eee66a27?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220310%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220310T044101Z&X-Amz-Expires=300&X-Amz-Signature=81e67852f3071546dd49b56e44e7287117ac13800ea95f0ea026edfa9ff91ff3&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=186305684&response-content-disposition=attachment%3B filename%3Dbtdex-v0.5.14-win.exe&response-content-type=application%2Foctet-stream
+File Name: C:\Downloaded Web Sites\www.signum.network\github-production-release-asset-2e65be\186305684\btdex-v0.5.14-win.exe
+Content Type: application/octet-stream
+
+Uri: https://walls.io/js/wallsio-widget-1.2.js
+File Name: C:\Downloaded Web Sites\www.signum.network\js\wallsio-widget-1.2.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/
+File Name: C:\Downloaded Web Sites\www.signum.network\index.htm
+Content Type: text/html
+
+Uri: https://www.signum.network/aliases.html
+File Name: C:\Downloaded Web Sites\www.signum.network\aliases.html
+Content Type: text/html
+
+Uri: https://www.signum.network/assets/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/bootstrap/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\bootstrap\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/assets/css/Cookie-Banner-1.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\Cookie-Banner-1.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/Cookie-Banner.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\Cookie-Banner.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/Footer-Dark.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\Footer-Dark.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/nav2.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\nav2.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/navigation.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\navigation.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/Simple-Slider.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\Simple-Slider.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/slidecalc.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\slidecalc.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/css/styles.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.signum.network/assets/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.signum.network/assets/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.signum.network/assets/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.signum.network/assets/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.signum.network/assets/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.signum.network/assets/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.signum.network/assets/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.signum.network/assets/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.signum.network/assets/fonts/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-all.min.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-all.min.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.signum.network/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.signum.network/assets/fonts/fontawesome5-overrides.min.css
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\fonts\fontawesome5-overrides.min.css
+Content Type: text/css
+
+Uri: https://www.signum.network/assets/img/Chain_left.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Chain_left.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Chain_right.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Chain_right.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/discover/City_Future.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\discover\City_Future.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/discover/DiscoverLogo.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\discover\DiscoverLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/discover/Placeholder.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\discover\Placeholder.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/exchanges/Bittrex.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\Bittrex.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/exchanges/ExchnangeTrailer.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\ExchnangeTrailer.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/exchanges/Finexbox.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\Finexbox.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/exchanges/Indodax.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\Indodax.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/exchanges/panbunny.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\panbunny.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/exchanges/panbunny.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\panbunny.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/exchanges/STEX.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\exchanges\STEX.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/Features/alias/Alias.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\alias\Alias.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/alias/Alias1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\alias\Alias1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/alias/Alias2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\alias\Alias2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/alias/Alias3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\alias\Alias3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/alias/AliasTeaser.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\alias\AliasTeaser.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/Aliases.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\Aliases.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/Messaging.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\Messaging.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/messaging/Message1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\messaging\Message1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/messaging/Message2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\messaging\Message2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/messaging/Message3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\messaging\Message3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/messaging/Message4.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\messaging\Message4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/messaging/MessagesTrailer.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\messaging\MessagesTrailer.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/messaging/MessageUseCase.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\messaging\MessageUseCase.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/Payment1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\Payment1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/Payment2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\Payment2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/Payment3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\Payment3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/Payment4.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\Payment4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/SignumLight.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\SignumLight.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/TeaserPay1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\TeaserPay1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/TeaserPay2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\TeaserPay2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/payments/TeaserPay3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\payments\TeaserPay3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/PaymentSolutions.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\PaymentSolutions.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/PoCPlus.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\PoCPlus.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/pocplus/C64.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\pocplus\C64.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/pocplus/Commitment.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\pocplus\Commitment.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/pocplus/Factor.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\pocplus\Factor.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/pocplus/PoCPlusOpener.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\pocplus\PoCPlusOpener.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/pocplus/Space01.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\pocplus\Space01.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/smartcontract/SignumCPU.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\smartcontract\SignumCPU.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/smartcontract/smartcontract.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\smartcontract\smartcontract.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/SmartContracts.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\SmartContracts.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/Tokens.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\Tokens.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/tokens/Token1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\tokens\Token1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/tokens/Token2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\tokens\Token2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/tokens/Token3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\tokens\Token3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/tokens/Token4.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\tokens\Token4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/tokens/TokenTeaser.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\tokens\TokenTeaser.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Features/tokens/TokenTrading.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Features\tokens\TokenTrading.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Footer/Bittrex.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Footer\Bittrex.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Footer/Blockfolio.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Footer\Blockfolio.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Footer/CoinGecko.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Footer\CoinGecko.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Footer/CoinMarketCap.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Footer\CoinMarketCap.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Footer/Indodax.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Footer\Indodax.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Footer/STEX.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Footer\STEX.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/bg_ele.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\bg_ele.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Comitment_Step1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Comitment_Step1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Commitment_Step2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Commitment_Step2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Factor0125.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Factor0125.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Factor1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Factor1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Factor8.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Factor8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step4.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step4.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step5.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step5.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step6.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step6.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step7.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step7.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Step8.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Step8.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Mining_Success.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Mining_Success.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/Signa_symbol_black.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Signa_symbol_black.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/mining/Signa_symbol_white.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\Signa_symbol_white.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/mining/SignumHDD.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\SignumHDD.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/mining/USD_white.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\mining\USD_white.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/seo/Signum_blue.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\seo\Signum_blue.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/SignumBrand.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumBrand.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumBrandBlack.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumBrandBlack.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumChain.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumChain.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumChain5pt.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumChain5pt.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumChainBlue.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumChainBlue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumChainGrey.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumChainGrey.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumChainIcon.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumChainIcon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumCoin.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumCoin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumLogo33.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumLogo33.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/SignumLogoBlack.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumLogoBlack.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumLogoStyle.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumLogoStyle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumNameStyle.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumNameStyle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumProcessor.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumProcessor.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumSymbol.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumSymbol.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumTeaser1.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumTeaser1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumTeaser2.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumTeaser2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumTeaser3.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumTeaser3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumWallet.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumWallet.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/SignumWorld.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumWorld.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/img/SignumWorld.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\SignumWorld.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Signum_Retancle.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Signum_Retancle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/Social/brave_blue.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\Social\brave_blue.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/ToggleWhite.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\ToggleWhite.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/wallet/BTDEXLogo.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\wallet\BTDEXLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/wallet/check-circle.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\wallet\check-circle.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/wallet/NDSA.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\wallet\NDSA.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/wallet/PhoenixLogo.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\wallet\PhoenixLogo.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/wallet/WorldGrid.svg
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\wallet\WorldGrid.svg
+Content Type: image/svg+xml
+
+Uri: https://www.signum.network/assets/img/wallet/XT.png
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\img\wallet\XT.png
+Content Type: image/png
+
+Uri: https://www.signum.network/assets/js/application.js
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\js\application.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/assets/js/calculator.js
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\js\calculator.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/assets/js/Cookie-Banner.js
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\js\Cookie-Banner.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/assets/js/navigation.js
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\js\navigation.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/assets/js/Simple-Slider.js
+File Name: C:\Downloaded Web Sites\www.signum.network\assets\js\Simple-Slider.js
+Content Type: application/javascript
+
+Uri: https://www.signum.network/disclaimer.html
+File Name: C:\Downloaded Web Sites\www.signum.network\disclaimer.html
+Content Type: text/html
+
+Uri: https://www.signum.network/discover.html
+File Name: C:\Downloaded Web Sites\www.signum.network\discover.html
+Content Type: text/html
+
+Uri: https://www.signum.network/exchanges.html
+File Name: C:\Downloaded Web Sites\www.signum.network\exchanges.html
+Content Type: text/html
+
+Uri: https://www.signum.network/index.html
+File Name: C:\Downloaded Web Sites\www.signum.network\index.html
+Content Type: text/html
+
+Uri: https://www.signum.network/manifest.json
+File Name: C:\Downloaded Web Sites\www.signum.network\manifest.json
+Content Type: application/json
+
+Uri: https://www.signum.network/messaging.html
+File Name: C:\Downloaded Web Sites\www.signum.network\messaging.html
+Content Type: text/html
+
+Uri: https://www.signum.network/mining.html
+File Name: C:\Downloaded Web Sites\www.signum.network\mining.html
+Content Type: text/html
+
+Uri: https://www.signum.network/news.html
+File Name: C:\Downloaded Web Sites\www.signum.network\news.html
+Content Type: text/html
+
+Uri: https://www.signum.network/pancakeswap.html
+File Name: C:\Downloaded Web Sites\www.signum.network\pancakeswap.html
+Content Type: text/html
+
+Uri: https://www.signum.network/payments.html
+File Name: C:\Downloaded Web Sites\www.signum.network\payments.html
+Content Type: text/html
+
+Uri: https://www.signum.network/pocplus.html
+File Name: C:\Downloaded Web Sites\www.signum.network\pocplus.html
+Content Type: text/html
+
+Uri: https://www.signum.network/privacypolicy.html
+File Name: C:\Downloaded Web Sites\www.signum.network\privacypolicy.html
+Content Type: text/html
+
+Uri: https://www.signum.network/smartcontracts.html
+File Name: C:\Downloaded Web Sites\www.signum.network\smartcontracts.html
+Content Type: text/html
+
+Uri: https://www.signum.network/styleguide.html
+File Name: C:\Downloaded Web Sites\www.signum.network\styleguide.html
+Content Type: text/html
+
+Uri: https://www.signum.network/styleguide/Signum_Logo.zip
+File Name: C:\Downloaded Web Sites\www.signum.network\styleguide\Signum_Logo.zip
+Content Type: application/zip
+
+Uri: https://www.signum.network/tokens.html
+File Name: C:\Downloaded Web Sites\www.signum.network\tokens.html
+Content Type: text/html
+
+Uri: https://www.signum.network/wallet.html
+File Name: C:\Downloaded Web Sites\www.signum.network\wallet.html
+Content Type: text/html
+
+Uri: https://www.signum.network/wp/Signum_Business_Whitepaper.pdf
+File Name: C:\Downloaded Web Sites\www.signum.network\wp\Signum_Business_Whitepaper.pdf
+Content Type: application/pdf
+
